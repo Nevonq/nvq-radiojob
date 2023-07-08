@@ -4,7 +4,7 @@ This resource for ESX creates private job frequencies.
 
 ### Requirements
 * RADIO SCRIPT
-### (ttps://github.com/FrazzIe/rp-radio)
+### (https://github.com/FrazzIe/rp-radio)
 
 ### TODO
 - Go into rp-radio script in the config.lua file make your listed frequencies private
